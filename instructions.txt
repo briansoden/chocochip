@@ -3,4 +3,4 @@ bake
 15 minutes
 
 
-cool down after get from the oven
+cool down before take it out from the oven.
