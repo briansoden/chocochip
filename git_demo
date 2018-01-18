@@ -1,0 +1,27 @@
+  943  mkdir chocochip
+  944  cd chocochip
+  945  ls
+  946  git init
+  947  cls
+  949  ls -a
+  959  mkdir recipe
+  960  ls
+  961  cd recipe
+  962  ls
+  963  gitinit
+  964  git init
+  965  ls -a
+  968  rm -fr .git
+  cd ..
+  973  rmdir recipe
+  974  cls
+  975  ls -a
+  976  ls .git
+  987  vi ingredients.txt 
+  988  cls
+  991  git status
+  992  git add ingredients
+  993  git add ingredients.txt
+  994  git status
+  995  git commit -m "basic dough"
+  996  git status
